@@ -104,7 +104,12 @@ body {
   color: var(--yellow);
 }
 
-.blog-container .blog-card .blog-title:hover {
+.blog-container .blog-card .blog-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.blog-container .blog-card .blog-title a:focus-visible {
   cursor: pointer;
 }
 
