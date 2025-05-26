@@ -52,7 +52,7 @@ body {
 
 .blog-container .blog-card {
   background-color: var(--white);
-  border: 2px solid var(--gray-950);
+  border: 1px solid var(--gray-950);
   border-radius: 20px;
   box-shadow: 8px 8px 0px 0px var(--gray-950);
   width: 100%;
@@ -71,7 +71,7 @@ body {
 
 .blog-container .blog-card .blog-img {
   width: 100%;
-  max-width: 336;
+  max-width: 336px;
   height: auto;
   max-height: 200;
   border-radius: 10px;
