@@ -45,7 +45,7 @@ This project helped me practice layout centering using Flexbox instead of absolu
 - Importance of using `max-width` with `width: 100%` to maintain responsiveness
 - How to style elements using semantic class naming and structure
 
-````css
+```css
 .blog-container {
   display: flex;
   justify-content: center;
@@ -73,4 +73,3 @@ In future projects, I want to:
 
 - Name – Rishabh Sikka
 - Frontend Mentor – [@RishabhSikka3](https://www.frontendmentor.io/profile/RishabhSikka3)
-````
