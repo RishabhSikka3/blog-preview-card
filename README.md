@@ -53,7 +53,7 @@ This project helped me practice layout centering using Flexbox instead of absolu
   min-height: 100vh;
   padding: 24px;
 }
-```css
+```
 
 ### Continued development
 
